@@ -1,0 +1,101 @@
+.btn {
+  display: inline-block;
+  position: relative;
+  color: #fff;
+  text-decoration: none;
+  border: 3px solid #fff;
+  border-radius: 18px;
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  padding: 10px 30px;
+  margin: 10px 10px;
+  overflow: hidden;
+  transition: all 0.3s;
+
+}
+
+
+.thumb-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.form {
+  width: 400px;
+  border: 2px solid #808080;
+  padding: 20px;
+  margin: 0;
+
+}
+
+.label-delay {
+  display: block;
+  color: #2E2F42;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  margin-bottom: 24px;
+}
+
+.label-delay input {
+  width: 350px;
+  border-radius: 4px;
+  border: 1px solid #808080;
+  outline: transparent;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.frame {
+  display: flex;
+  align-items: center;
+  width: 384px;
+  border-radius: 4px;
+  border: 2px solid #9d9c9c;
+  margin-bottom: 24px;
+  padding: 0;
+
+
+}
+
+.legend {
+  color: #2E2F42;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1, 6;
+  letter-spacing: 0.04em;
+  padding-left: 5px;
+
+}
+
+.label-radio {
+  color: #2E2F42;
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 8px 16px;
+
+}
+
+
+.btn-start {
+  width: 384px;
+  border-radius: 8px;
+  background-color: #909592;
+  border: transparent;
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  padding: 8px 16px;
+  cursor: pointer;
+}
